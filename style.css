@@ -1,0 +1,121 @@
+*
+{
+	float: none;
+	font-family: Veradana;
+}
+
+h1
+{
+	font-size: 32px;
+}
+
+
+
+a
+{
+	color: Black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#header
+{
+	width: 800px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -400px;
+	margin-top: 10px;
+	background-color: Gray;
+	text-align: center;
+}
+
+#mainbody
+{
+	width: 1000px;
+	height: 500px;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -400px;
+	margin-top: 247px;
+}
+
+#sidebar
+{
+	width: 195px;
+	height: 500px;
+	float: left;
+	background-color: Gray;
+}
+
+#mainpart
+{
+	width: 595px;
+	height: 500px;
+	float: left;
+	background-color: Gray;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+
+#footer
+{
+	width: 800px;
+	height: 17px;
+	background-color: Gray;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -400px;
+	margin-top: 757px;
+
+}
+
+#belowfooter
+{
+	width: 800px;
+	height: 20px;
+	color: white;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -400px;
+	margin-top: 767px;
+}
+
+#menu
+{
+	width: 800px;
+	height: 17px;
+	background-color: orange;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -400px;
+	margin-top: 220px;
+}
+
+#menu a
+{
+	color: Black;
+	text-decoration: none;
+	text-align: center;
+	background-color: orange;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#menu ul
+{
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+	font-size: 14px;
+	margin-top: -0px;
+	
+
+}
