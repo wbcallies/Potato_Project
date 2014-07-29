@@ -85,7 +85,7 @@ a
 	margin-top: 767px;
 }
 
-#menu
+#menuline
 {
 	width: 800px;
 	height: 17px;
@@ -95,7 +95,22 @@ a
 	right: 50%;
 	margin-left: -400px;
 	margin-top: 220px;
+
 }
+
+
+#menu
+{
+	width: 750px;
+	height: 17px;
+	background-color: orange;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -375px;
+	margin-top: 220px;
+}
+
 
 #menu a
 {
@@ -118,4 +133,30 @@ a
 	margin-top: -0px;
 	
 
+}
+
+#menu-fade-left
+{
+	background-image: url(img/menu_fade_left.gif);
+	width: 25px;
+	height:17px;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: -375px;
+	margin-top: 220px;
+	margin-bottom: 15px;
+}
+
+#menu-fade-right
+{
+	background-image: url(img/menu_fade_right.gif);
+	width: 25px;
+	height:17px;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	margin-left: 375px;
+	margin-top: 220px;
+	margin-bottom: 15px;
 }
