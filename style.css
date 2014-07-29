@@ -27,7 +27,7 @@ a
 	right: 50%;
 	margin-left: -400px;
 	margin-top: 10px;
-	background-color: Gray;
+	background-image: url(img/header.jpg);
 	text-align: center;
 }
 
@@ -93,7 +93,7 @@ a
 	position: absolute;
 	left: 50%;
 	right: 50%;
-	margin-left: -400px;
+	margin-left: -300px;
 	margin-top: 220px;
 
 }
@@ -109,6 +109,7 @@ a
 	right: 50%;
 	margin-left: -375px;
 	margin-top: 220px;
+
 }
 
 
@@ -127,7 +128,7 @@ a
 #menu ul
 {
 	float: left;
-	margin-left: 20px;
+	margin-left: 10px;
 	text-align: center;
 	font-size: 14px;
 	margin-top: -0px;
@@ -156,7 +157,7 @@ a
 	position: absolute;
 	left: 50%;
 	right: 50%;
-	margin-left: 375px;
+	margin-left: 350px;
 	margin-top: 220px;
 	margin-bottom: 15px;
 }
